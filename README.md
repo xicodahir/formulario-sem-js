@@ -8,9 +8,8 @@ formulario criado atraves de um site porem sem JS
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario responsivo com html e css</title>
     <link rel="stylesheet" href="form.css">
-    @charset "UTF-8"
-@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Work+Sans:wght@300&display=swap');
-
+ 
+ 
 *{
     padding: 0;
     margin: 0;
